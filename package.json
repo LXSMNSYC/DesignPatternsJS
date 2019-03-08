@@ -1,0 +1,27 @@
+{
+  "name": "designpatternsjs",
+  "version": "0.1.0",
+  "description": "Design Patterns in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXSMNSYC/DesignPatternsJS.git"
+  },
+  "author": "LXSMNSYC (alexis.munsayac@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LXSMNSYC/DesignPatternsJS/issues"
+  },
+  "homepage": "https://github.com/LXSMNSYC/DesignPatternsJS#readme",
+  "devDependencies": {
+    "docdash": "^1.0.3",
+    "jsdoc": "^3.5.5",
+    "mocha": "^6.0.2",
+    "nyc": "^13.3.0",
+    "rollup": "^1.6.0",
+    "terser": "^3.16.1"
+  }
+}
