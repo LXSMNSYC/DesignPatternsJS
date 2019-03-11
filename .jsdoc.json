@@ -1,7 +1,7 @@
 {
     "opts": {
         "template": "node_modules/docdash",
-        "destination": "./docs/" 
+        "destination": "./docs/jsdoc/" 
     },
     "tags": {
         "allowUnknownTags": true
@@ -21,24 +21,26 @@
 
     "docdash": {
         "meta": {                       
-            "title": "relays.js",                
-            "description": "relays.js",         
-            "keyword": "javascript, js, observer, pub-sub, observable, emitter, event"               
+            "title": "Design Patterns in JS",                
+            "description": "Design Patterns in JS, inspired by GoF",         
+            "keyword": "javascript, js, design, design patterns"               
         },
         "openGraph": {                  
-            "title": "relays.js",                
+            "title": "Design Patterns in JS",                
             "type": "website",         
             "image": "https://avatars3.githubusercontent.com/u/2680116?s=280&v=4",                
-            "site_name": "relays.js",  
-            "url": "https://lxsmnsyc.github.io/relays.js/"                   
+            "site_name": "Design Patterns in JS",  
+            "url": "https://lxsmnsyc.github.io/design-patterns-js/"                   
         },
         "sectionOrder": [
             "Tutorials",    
-            "Classes"
+            "Namespaces",
+            "Classes",
+            "Interfaces"
         ],
         "menu":{                        
             "Github Repo":{         
-                "href":"https://github.com/lxsmnsyc/relays.js", 
+                "href":"https://github.com/lxsmnsyc/DesignPatternsJS", 
                 "target":"_blank",
                 "class":"menu-item",
                 "id":"website_link"
