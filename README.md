@@ -1,6 +1,7 @@
 # DesignPatternsJS
 
 [![Build Status](https://travis-ci.org/LXSMNSYC/DesignPatternsJS.svg?branch=master)](https://travis-ci.org/LXSMNSYC/DesignPatternsJS)
+[![Build status](https://ci.appveyor.com/api/projects/status/b68g0shskrq2re0g?svg=true)](https://ci.appveyor.com/project/LXSMNSYC/designpatternsjs)
 [![codecov](https://codecov.io/gh/LXSMNSYC/DesignPatternsJS/branch/master/graph/badge.svg)](https://codecov.io/gh/LXSMNSYC/DesignPatternsJS)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/LXSMNSYC/DesignPatternsJS/badge.svg?targetFile=package.json)](https://snyk.io/test/github/LXSMNSYC/DesignPatternsJS?targetFile=package.json)
