@@ -16,3 +16,7 @@ test_script:
   - nyc npm test
   - nyc report --reporter=text-lcov > coverage.lcov
   - codecov
+
+
+# Don't actually build.
+build: off
