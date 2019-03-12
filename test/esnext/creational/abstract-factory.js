@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import assert from 'assert';
 
 import TextDialogFactory from '../../../src/esnext/creational/abstract-factory/text-dialog-factory';
