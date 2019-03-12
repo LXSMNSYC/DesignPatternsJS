@@ -25,20 +25,21 @@
  * @author Alexis Munsayac <alexis.munsayac@gmail.com>
  * @copyright Alexis Munsayac 2019
  */
- 
+
 /**
  * @desc
- * 
+ *
  */
-export default class Room{
-  constructor(){
+export default class Room {
+  constructor() {
     this.data = {};
   }
+
   /**
    * @param {String} key
    * @param {*} value
    */
-  setPart(key, value){
+  setPart(key, value) {
     this.data[key] = value;
   }
 }
