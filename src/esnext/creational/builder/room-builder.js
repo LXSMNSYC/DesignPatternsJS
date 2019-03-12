@@ -30,6 +30,7 @@ import Room from './room';
 /**
  * @desc
  *
+ * @interface
  */
 export default class RoomBuilder {
   /**
