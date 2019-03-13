@@ -29,6 +29,7 @@ import FactoryMethod from './factory-method';
 import CircleContainer from './circle-container';
 /**
  * @desc
+ * Circle Shape class
  */
 export default class Circle extends FactoryMethod {
   /**
@@ -47,7 +48,7 @@ export default class Circle extends FactoryMethod {
 
   /**
    * @desc
-   *
+   * Creates a circular bounding container for checking points
    * @returns {CircleContainer}
    */
   makeContainer() {
