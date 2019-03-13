@@ -48,6 +48,7 @@ export default class Rect extends FactoryMethod {
 
   /**
    * @desc
+   * Creates a rectangular bounding container for checking points
    *
    * @returns {RectContainer}
    */
