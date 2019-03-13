@@ -28,12 +28,13 @@
 
 /**
  * @desc
- *
+ * An interface for creating bounding containers for shapes
  * @interface
  */
 export default class BoundingContainer {
   /**
    * @desc
+   * Checks if a 2D point lies inside the shape
    *
    * @param {Number} x
    * @param {Number} y
