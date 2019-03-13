@@ -29,7 +29,7 @@ import BoundingContainer from './bounding-container';
 
 /**
  * @desc
- *
+ * A circular bounding container
  */
 export default class CircleContainer extends BoundingContainer {
   /**
@@ -48,6 +48,7 @@ export default class CircleContainer extends BoundingContainer {
 
   /**
    * @desc
+   * Checks if a 2D point lies inside the circle
    * @param {Number} tx
    * @param {Number} ty
    * @return {Boolean}
