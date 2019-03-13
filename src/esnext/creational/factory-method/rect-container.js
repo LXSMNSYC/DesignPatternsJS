@@ -27,6 +27,11 @@
  */
 import BoundingContainer from './bounding-container';
 
+/**
+ * @desc
+ *
+ * A rectangular bounding container
+ */
 export default class RectContainer extends BoundingContainer {
   /**
    * @desc
@@ -46,6 +51,7 @@ export default class RectContainer extends BoundingContainer {
 
   /**
    * @desc
+   * Checks if a 2D point lies inside the rectangle
    *
    * @param {Number} tx
    * @param {Number} ty
